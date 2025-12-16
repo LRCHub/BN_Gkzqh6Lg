@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "RUN REMIX",
+  "base_artist": "tofubeats",
+  "createdAt": "2025-12-16T04:34:40.727515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let the Rhythm Run (Remix)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/01_Let_the_Rhythm_Run_(Remix)_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let the Rhythm Run (remix) (from the Solofilms\u0000Orion film “Colors”)",
+      "artist": "Salt‐N‐Pepa",
+      "has_synced": false,
+      "path": "select/02_Let_the_Rhythm_Run_(remix)_(from_the_Solofilms\u0000Orion_film_“Colors”)_Salt‐N‐Pepa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ravers in the UK - Giorno's Jump & Run Remix",
+      "artist": "Manian",
+      "has_synced": false,
+      "path": "select/03_Ravers_in_the_UK_-_Giorno's_Jump_&_Run_Remix_Manian.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On The Run - Remix Edit",
+      "artist": "Bigod 20",
+      "has_synced": false,
+      "path": "select/04_On_The_Run_-_Remix_Edit_Bigod_20.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Press On - CB Ultra Run Remix",
+      "artist": "Mandisa",
+      "has_synced": false,
+      "path": "select/05_Press_On_-_CB_Ultra_Run_Remix_Mandisa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Press On - CB Ultra Run Remix",
+      "artist": "Mandisa/Chuck Butler",
+      "has_synced": false,
+      "path": "select/06_Press_On_-_CB_Ultra_Run_Remix_Mandisa_Chuck_Butler.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feeling All Blue (Nowhere To Run Remix)",
+      "artist": "Stegosaurus Rex",
+      "has_synced": true,
+      "path": "select/07_Feeling_All_Blue_(Nowhere_To_Run_Remix)_Stegosaurus_Rex.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let the Rhythm Run (remix)",
+      "artist": "Salt‐N‐Pepa",
+      "has_synced": false,
+      "path": "select/08_Let_the_Rhythm_Run_(remix)_Salt‐N‐Pepa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Run (remix)",
+      "artist": "Ghostface Killah",
+      "has_synced": false,
+      "path": "select/09_Run_(remix)_Ghostface_Killah.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Relay - iLYKE to Run Run Remix",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/10_Relay_-_iLYKE_to_Run_Run_Remix_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "RUN REMIX (feat. KREVA & VaVa)",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/11_RUN_REMIX_(feat._KREVA_&_VaVa)_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Run Baby Run - Remix",
+      "artist": "Dartside",
+      "has_synced": true,
+      "path": "select/12_Run_Baby_Run_-_Remix_Dartside.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Run (remix)",
+      "artist": "Wordsworth",
+      "has_synced": false,
+      "path": "select/13_Run_(remix)_Wordsworth.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Run (remix)",
+      "artist": "Ghostface Killah feat. Jadakiss & Lil Wayne",
+      "has_synced": false,
+      "path": "select/14_Run_(remix)_Ghostface_Killah_feat._Jadakiss_&_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Run (Remix) (Feat. Jadakiss & Lil Wayne)",
+      "artist": "Ghostface Killah",
+      "has_synced": false,
+      "path": "select/15_Run_(Remix)_(Feat._Jadakiss_&_Lil_Wayne)_Ghostface_Killah.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let the Rhythm Run (remix) (from the Solofilms/Orion film “Colors”)",
+      "artist": "Salt‐N‐Pepa",
+      "has_synced": false,
+      "path": "select/16_Let_the_Rhythm_Run_(remix)_(from_the_Solofilms_Orion_film_“Colors”)_Salt‐N‐Pepa.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Run (remix)",
+      "artist": "Ghostface Killah feat. Jadakiss, Lil Wayne, Raekwon & Freeway",
+      "has_synced": false,
+      "path": "select/17_Run_(remix)_Ghostface_Killah_feat._Jadakiss,_Lil_Wayne,_Raekwon_&_Freeway.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ravers in the UK (Giorno’s Jump & Run remix)",
+      "artist": "Manian",
+      "has_synced": false,
+      "path": "select/18_Ravers_in_the_UK_(Giorno’s_Jump_&_Run_remix)_Manian.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RUN REMIX (feat. KREVA & VaVa)",
+      "artist": "tofubeats, KREVA, VaVa",
+      "has_synced": false,
+      "path": "select/pl_01_RUN_REMIX_(feat._KREVA_&_VaVa)_tofubeats,_KREVA,_VaVa.txt"
+    }
+  ]
+}
